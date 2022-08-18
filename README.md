@@ -5,4 +5,4 @@ CRIANDO SITE HTML
 - Apenas eu estou programando no momento
 - Licença de uso
 - Este é o link da minha página:
-  https://cissaribas123.github.io/TURMA-E/
+  https://cissaribas123.github.io/TURMAE/
